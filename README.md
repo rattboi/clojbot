@@ -8,7 +8,7 @@ Connects to a hardcoded server/port/channel/nick, and processes a few very simpl
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2014 Bradon Kanyid
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
